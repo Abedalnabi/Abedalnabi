@@ -1,10 +1,13 @@
-# Mo Alnabale  
-**Full-Stack Developer**  
+<h1 align="left">Hi 👋, I'm Mohammad</h1>
+
+<div align="left">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div></br>
+
 📍 Jordan | 📧 mo.alnabale98@gmail.com | 📞 (962) 789814895  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Link-blue)](your-portfolio-link) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-link) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](your-github-link)
 
 ---
 

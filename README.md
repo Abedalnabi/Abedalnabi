@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div></br>
 
-📍 Jordan | 📧 mo.alnabale98@gmail.com | 📞 (962) 789814895  
+📍 Jordan |   📧 mo.alnabale98@gmail.com |   📞 (962) 789814895  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Link-blue)](https://main.d8ywiq3jnf21e.amplifyapp.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohammad-alnabalebe/) 

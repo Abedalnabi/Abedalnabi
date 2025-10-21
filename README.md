@@ -6,8 +6,8 @@
 
 📍 Jordan | 📧 mo.alnabale98@gmail.com | 📞 (962) 789814895  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Link-blue)](your-portfolio-link) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-link) 
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Link-blue](https://main.d8ywiq3jnf21e.amplifyapp.com/))]([your-portfolio-link](https://main.d8ywiq3jnf21e.amplifyapp.com/)) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue](https://www.linkedin.com/in/mohammad-alnabalebe/))]([your-linkedin-link](https://www.linkedin.com/in/mohammad-alnabalebe/)) 
 
 ---
 

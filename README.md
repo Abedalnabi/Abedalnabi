@@ -9,7 +9,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Link-blue)](https://main.d8ywiq3jnf21e.amplifyapp.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohammad-alnabalebe/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](your-github-link)
 
 ---
 
@@ -76,8 +75,7 @@ A results-driven Full-Stack Developer with 3+ years of experience building scala
 - **Email:** mo.alnabale98@gmail.com  
 - **Phone:** (962) 789814895  
 - **LinkedIn:** [Mohammad Alnabalebe](https://www.linkedin.com/in/mohammad-alnabalebe/)  
-- **Portfolio:** [My Portfolio](https://main.d8ywiq3jnf21e.amplifyapp.com/)  
-- **GitHub:** [Your GitHub](your-github-link)  
+- **Portfolio:** [My Portfolio](https://main.d8ywiq3jnf21e.amplifyapp.com/)   
 
 ---
 

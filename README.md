@@ -70,7 +70,7 @@ A results-driven Full-Stack Developer with 3+ years of experience building scala
 ## 📫 Let's Connect  
 - **Email:** mo.alnabale98@gmail.com  
 - **Phone:** (962) 789814895  
-- **LinkedIn:** [Mohammad Alnabalebe](https://www.linkedin.com/in/mohammad-alnabalebe/)  
+- **LinkedIn:** [Mohammad Abedalnabi](https://www.linkedin.com/in/mohammad-alnabalebe/)  
 - **Portfolio:** [My Portfolio](https://main.d8ywiq3jnf21e.amplifyapp.com/)   
 
 ---

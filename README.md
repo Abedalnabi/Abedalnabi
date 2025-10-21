@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohammad</h1>
+**Full-Stack Developer**  
 
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -6,8 +7,9 @@
 
 📍 Jordan | 📧 mo.alnabale98@gmail.com | 📞 (962) 789814895  
 
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Link-blue](https://main.d8ywiq3jnf21e.amplifyapp.com/))]([your-portfolio-link](https://main.d8ywiq3jnf21e.amplifyapp.com/)) 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue](https://www.linkedin.com/in/mohammad-alnabalebe/))]([your-linkedin-link](https://www.linkedin.com/in/mohammad-alnabalebe/)) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Link-blue)](https://main.d8ywiq3jnf21e.amplifyapp.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mohammad-alnabalebe/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](your-github-link)
 
 ---
 
@@ -28,7 +30,7 @@ A results-driven Full-Stack Developer with 3+ years of experience building scala
 ## 💼 Professional Experience  
 
 ### **UNICEF** | Software Engineer (Full-time)  
-*Jul 2023 – present*  
+*Jul 2023 – May 2025*  
 - Led system integration with existing infrastructure for seamless interoperability and efficiency  
 - Conducted research and applied data-driven UI/UX improvements, boosting user satisfaction  
 - Designed and deployed new features using modern development practices  
@@ -64,11 +66,18 @@ A results-driven Full-Stack Developer with 3+ years of experience building scala
 
 ---
 
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
 ## 📫 Let's Connect  
 - **Email:** mo.alnabale98@gmail.com  
 - **Phone:** (962) 789814895  
-- **LinkedIn:** [Your LinkedIn Profile](your-linkedin-link)  
-- **Portfolio:** [Your Portfolio Website](your-portfolio-link)  
+- **LinkedIn:** [Mohammad Alnabalebe](https://www.linkedin.com/in/mohammad-alnabalebe/)  
+- **Portfolio:** [My Portfolio](https://main.d8ywiq3jnf21e.amplifyapp.com/)  
+- **GitHub:** [Your GitHub](your-github-link)  
 
 ---
 

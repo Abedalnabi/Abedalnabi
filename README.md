@@ -1,69 +1,78 @@
-<h1 align="left">Hi 👋, I'm Mohammad</h1>
-<div align="left">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div></br>
+# Mo Alnabale  
+**Full-Stack Developer**  
+📍 Jordan | 📧 mo.alnabale98@gmail.com | 📞 (962) 789814895  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abedalnabi&label=Profile%20views&color=0e75b6&style=flat" alt="abedAlnabi" /> </p>
-
-[cite_start]🔭 I'm a **Software Engineer** with extensive experience in **full-stack development** and **system integrations**[cite: 2, 6].<br/>
-[cite_start]📍 Based in **Amman, Jordan**[cite: 4].<br/>
-
-[cite_start]I am a highly skilled and detail-oriented Software Engineer[cite: 6]. [cite_start]Adept at developing **scalable web applications** with modern technologies[cite: 7]. [cite_start]Known for **strong problem-solving abilities**, a passion for coding, and a commitment to delivering innovative solutions[cite: 8, 59]. [cite_start]I thrive in cross-functional teams, adhere to industry best practices, and am dedicated to enhancing user experiences through **intuitive and accessible design**[cite: 9, 11].
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/Abedalnabi" target="_blank"><img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Abedalnabi" target="_blank"><img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:mo.alnabale98@gmail.com" target="_blank"><img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[Portfolio Link from CV]" target="_blank"><img align="left" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-
-
-<br/>
-<br/>
-  
-
-## 🛠️ Tech Stack & Core Skills
-<h4 align="left">Frontend Development:</h4>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-</p>
-
-<h4 align="left">Backend Development & APIs:</h4>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="Node.js" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-</p>
-
-<h4 align="left">Database & State Management:</h4>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-</p>
-
-<h4 align="left">Other Tools & Cloud:</h4>
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Link-blue)](your-portfolio-link) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](your-linkedin-link) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](your-github-link)
 
 ---
 
-## 🚀 Key Accomplishments
-
-* [cite_start]**System Integration:** Spearheaded the integration of new systems with existing infrastructure, ensuring **seamless interoperability** and improved efficiency[cite: 17].
-* [cite_start]**UI/UX Enhancements:** Conducted user research and implemented data-driven improvements, resulting in a **significant increase in user satisfaction**[cite: 18].
-* [cite_start]**Performance Optimization:** Enhanced the performance and loading time of web applications by **optimizing code** and leveraging best practices[cite: 30, 56].
-* [cite_start]**Reverse Engineering:** Conducted reverse engineering on **ProtonMail's mail client** for rebranding and customization[cite: 33].
-* [cite_start]**Technical Documentation:** Created **comprehensive technical documentation** to support system maintenance and facilitate knowledge sharing[cite: 21, 60].
+## 👨‍💻 About Me  
+A results-driven Full-Stack Developer with 3+ years of experience building scalable web applications and optimizing system performance. Skilled in modern technologies like **React.js, Vue.js, Node.js, and Spring Boot**, with a strong focus on UI/UX enhancements, database optimization, and seamless system integration. Passionate about writing clean, maintainable code and collaborating with cross-functional teams to deliver exceptional user experiences.
 
 ---
 
-[cite_start]💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Mohammad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Abedalnabi) or at **mo.alnabale98@gmail.com**[cite: 3]. I'm always looking forward to an insightful conversation over new technology, or even better, your achievements!
+## 🚀 Technical Skills  
+- **Frontend:** React.js, Vue.js, Redux, HTML5, CSS3, JavaScript (ES6+)  
+- **Backend:** Node.js, Java Spring Boot, RESTful APIs, GraphQL  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Practices:** Git, Docker, Testing & Debugging, Code Reviews, Technical Documentation  
+- **Other:** System Integration, Performance Optimization, Reverse Engineering  
+
+---
+
+## 💼 Professional Experience  
+
+### **UNICEF** | Software Engineer (Full-time)  
+*Jul 2023 – May 2025*  
+- Led system integration with existing infrastructure for seamless interoperability and efficiency  
+- Conducted research and applied data-driven UI/UX improvements, boosting user satisfaction  
+- Designed and deployed new features using modern development practices  
+- Optimized database structures and queries for better performance and scalability  
+- Created detailed technical documentation and provided user training and technical support  
+
+### **Insan W Alat** | Full Stack Developer (Full-time)  
+*Feb 2022 – Mar 2023*  
+- Built and maintained full-stack web applications using React.js, Vue.js, Node.js, MySQL, and MongoDB  
+- Designed and implemented RESTful APIs for seamless communication between services  
+- Managed application state using Redux for improved scalability  
+- Conducted code reviews and ensured adherence to best practices  
+- Collaborated with product managers, backend developers, and designers to align project goals  
+
+### **CBM Integrated Software Inc** | Full Stack Developer (Part-time)  
+*Jul 2022 – Oct 2023*  
+- Designed and implemented dynamic, responsive interfaces using React.js  
+- Enhanced performance and loading times through code optimization  
+- Gained experience building RESTful and GraphQL APIs with Node.js and MySQL  
+- Researched and implemented innovative solutions to enhance system capabilities  
+
+### **MyKloud** | Software Engineer (Full-time)  
+*Nov 2021 – Feb 2022*  
+- Built front-end interfaces using React.js, ensuring responsiveness and scalability  
+- Worked on backend systems using Java Spring Boot for secure, high-performance solutions  
+- Conducted reverse engineering on ProtonMail's client for rebranding and customization  
+
+---
+
+## 🎓 Education  
+**MERAKI Academy** | *Mar 2021 – Oct 2021*  
+- Immersive Full-Stack Development Bootcamp (1000 hours)  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect  
+- **Email:** mo.alnabale98@gmail.com  
+- **Phone:** (962) 789814895  
+- **LinkedIn:** [Your LinkedIn Profile](your-linkedin-link)  
+- **Portfolio:** [Your Portfolio Website](your-portfolio-link)  
+
+---
+
+*Open to new opportunities and collaborations!* 😊

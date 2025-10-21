@@ -1,5 +1,7 @@
-<h1 align="left">Hi 👋, I'm Mohammad</h1>
-<h2 align="left">Full-Stack Developer</h2>
+<h1 align="left">Hi 👋, I'm Mohammad
+Full-Stack Developer
+</h1>
+
 
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>

@@ -29,7 +29,7 @@ A results-driven Full-Stack Developer with 3+ years of experience building scala
 ## 💼 Professional Experience  
 
 ### **UNICEF** | Software Engineer (Full-time)  
-*Jul 2023 – May 2025*  
+*Jul 2023 – Present*  
 - Led system integration with existing infrastructure for seamless interoperability and efficiency  
 - Conducted research and applied data-driven UI/UX improvements, boosting user satisfaction  
 - Designed and deployed new features using modern development practices  

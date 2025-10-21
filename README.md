@@ -1,6 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mohammad
-Full-Stack Developer
-</h1>
+<h1 align="left">Hi 👋, I'm Mohammad</h1>
 
 
 <div align="left">

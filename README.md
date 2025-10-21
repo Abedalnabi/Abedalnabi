@@ -61,14 +61,10 @@ A results-driven Full-Stack Developer with 3+ years of experience building scala
 
 ## 🎓 Education  
 **MERAKI Academy** | *Mar 2021 – Oct 2021*  
-- Immersive Full-Stack Development Bootcamp (1000 hours)  
+- Immersive Full-Stack Development Bootcamp (1000 hours)
 
----
-
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
+**Hashemite University** | *2015 – 2019*  
+- BSc in Finance
 ---
 
 ## 📫 Let's Connect  
